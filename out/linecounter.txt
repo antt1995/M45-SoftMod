@@ -1,0 +1,139 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2022-01-23 22:13:24
+count workspace : /home/dist/github/M45-SoftMod
+total files : 50
+total code lines : 5732
+total comment lines : 2
+total blank lines : 659
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |           .lua|           5498|              1|            599|     96|
+   |               |            187|              1|             47|    3.3|
+   |            .md|              2|              0|              0|  0.035|
+   |           .txt|             45|              0|             13|   0.79|
+   -------------------------------------------------------------------------
+.gitignore, code is 0, comment is 0, blank is 0.
+antigrief.lua, code is 68, comment is 0, blank is 11.
+banish.lua, code is 505, comment is 0, blank is 37.
+commands.lua, code is 373, comment is 0, blank is 55.
+control.lua, code is 14, comment is 0, blank is 0.
+event.lua, code is 431, comment is 1, blank is 54.
+ftd.lua, code is 0, comment is 0, blank is 0.
+globals.lua, code is 76, comment is 0, blank is 13.
+img-source/character.psd, it is a binary file.
+img-source/logo-button.psd, it is a binary file.
+img-source/m45-2021-logo.png, it is a binary file.
+img-source/m45-2021-logo.psd, it is a binary file.
+img-source/m45-pad-2021.png, it is a binary file.
+img-source/m45-pad-2021.psd, it is a binary file.
+img-source/m45-pad-v5-2021.png, it is a binary file.
+img-source/m45-spawnpad.zip, it is a binary file.
+img-source/todo.psd, it is a binary file.
+img/buttons/m45-32.png, it is a binary file.
+img/buttons/m45-64.png, it is a binary file.
+img/buttons/online-32.png, it is a binary file.
+img/buttons/online-64.png, it is a binary file.
+img/buttons/todo-32.png, it is a binary file.
+img/buttons/todo-64.png, it is a binary file.
+img/ftd/fire.png, it is a binary file.
+img/info-win/discord-64.png, it is a binary file.
+img/info-win/m45-128.png, it is a binary file.
+img/info-win/m45-qr.png, it is a binary file.
+img/info-win/patreon-64.png, it is a binary file.
+img/info-win/patreon-qr.png, it is a binary file.
+img/info-win/tips/bookmark.png, it is a binary file.
+img/info-win/tips/dl-fact.png, it is a binary file.
+img/info-win/tips/onetwothree.png, it is a binary file.
+img/todo/add.png, it is a binary file.
+img/todo/del.png, it is a binary file.
+img/todo/down.png, it is a binary file.
+img/todo/up.png, it is a binary file.
+img/world/m45-pad-v5.png, it is a binary file.
+info.lua, code is 800, comment is 0, blank is 58.
+LICENSE, code is 187, comment is 1, blank is 47.
+log.lua, code is 77, comment is 0, blank is 14.
+logo.lua, code is 72, comment is 0, blank is 4.
+notes/control.lua, code is 1277, comment is 0, blank is 139.
+notes/darkness-notes.txt, code is 45, comment is 0, blank is 13.
+notes/darkness.lua, code is 512, comment is 0, blank is 81.
+online.lua, code is 526, comment is 0, blank is 54.
+perms.lua, code is 51, comment is 0, blank is 4.
+preview.jpg, it is a binary file.
+README.md, code is 2, comment is 0, blank is 0.
+todo.lua, code is 444, comment is 0, blank is 43.
+utility.lua, code is 272, comment is 0, blank is 32.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2022-01-23 22:14:02
+count workspace : /home/dist/github/M45-SoftMod
+total files : 49
+total code lines : 5732
+total comment lines : 2
+total blank lines : 659
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .md|              2|              0|              0|  0.035|
+   |           .lua|           5498|              1|            599|     96|
+   |               |            187|              1|             47|    3.3|
+   |           .txt|             45|              0|             13|   0.79|
+   -------------------------------------------------------------------------
+.gitignore, code is 0, comment is 0, blank is 0.
+antigrief.lua, code is 68, comment is 0, blank is 11.
+banish.lua, code is 505, comment is 0, blank is 37.
+commands.lua, code is 373, comment is 0, blank is 55.
+control.lua, code is 14, comment is 0, blank is 0.
+event.lua, code is 431, comment is 1, blank is 54.
+ftd.lua, code is 0, comment is 0, blank is 0.
+globals.lua, code is 76, comment is 0, blank is 13.
+img-source/character.psd, it is a binary file.
+img-source/logo-button.psd, it is a binary file.
+img-source/m45-2021-logo.psd, it is a binary file.
+img-source/m45-pad-2021.png, it is a binary file.
+img-source/m45-pad-2021.psd, it is a binary file.
+img-source/m45-pad-v5-2021.png, it is a binary file.
+img-source/m45-spawnpad.zip, it is a binary file.
+img-source/todo.psd, it is a binary file.
+img/buttons/m45-32.png, it is a binary file.
+img/buttons/m45-64.png, it is a binary file.
+img/buttons/online-32.png, it is a binary file.
+img/buttons/online-64.png, it is a binary file.
+img/buttons/todo-32.png, it is a binary file.
+img/buttons/todo-64.png, it is a binary file.
+img/ftd/fire.png, it is a binary file.
+img/info-win/discord-64.png, it is a binary file.
+img/info-win/m45-128.png, it is a binary file.
+img/info-win/m45-qr.png, it is a binary file.
+img/info-win/patreon-64.png, it is a binary file.
+img/info-win/patreon-qr.png, it is a binary file.
+img/info-win/tips/bookmark.png, it is a binary file.
+img/info-win/tips/dl-fact.png, it is a binary file.
+img/info-win/tips/onetwothree.png, it is a binary file.
+img/todo/add.png, it is a binary file.
+img/todo/del.png, it is a binary file.
+img/todo/down.png, it is a binary file.
+img/todo/up.png, it is a binary file.
+img/world/m45-pad-v5.png, it is a binary file.
+info.lua, code is 800, comment is 0, blank is 58.
+LICENSE, code is 187, comment is 1, blank is 47.
+log.lua, code is 77, comment is 0, blank is 14.
+logo.lua, code is 72, comment is 0, blank is 4.
+notes/control.lua, code is 1277, comment is 0, blank is 139.
+notes/darkness-notes.txt, code is 45, comment is 0, blank is 13.
+notes/darkness.lua, code is 512, comment is 0, blank is 81.
+online.lua, code is 526, comment is 0, blank is 54.
+perms.lua, code is 51, comment is 0, blank is 4.
+preview.jpg, it is a binary file.
+README.md, code is 2, comment is 0, blank is 0.
+todo.lua, code is 444, comment is 0, blank is 43.
+utility.lua, code is 272, comment is 0, blank is 32.
+===============================================================================

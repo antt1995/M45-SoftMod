@@ -1,0 +1,724 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "/home/dist/github/M45-SoftMod",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2022-01-23 22:13:24",
+            "filesum": 50,
+            "codesum": 5732,
+            "commentsum": 2,
+            "blanksum": 659,
+            "statistics": {
+                ".lua": {
+                    "code": 5498,
+                    "comment": 1,
+                    "blank": 599
+                },
+                "": {
+                    "code": 187,
+                    "comment": 1,
+                    "blank": 47
+                },
+                ".md": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 45,
+                    "comment": 0,
+                    "blank": 13
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 11,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "antigrief.lua"
+                },
+                {
+                    "blank": 37,
+                    "code": 505,
+                    "comment": 0,
+                    "filename": "banish.lua"
+                },
+                {
+                    "blank": 55,
+                    "code": 373,
+                    "comment": 0,
+                    "filename": "commands.lua"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "control.lua"
+                },
+                {
+                    "blank": 54,
+                    "code": 431,
+                    "comment": 1,
+                    "filename": "event.lua"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "ftd.lua"
+                },
+                {
+                    "blank": 13,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "globals.lua"
+                },
+                {
+                    "filename": "img-source/character.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/logo-button.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-2021-logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-2021-logo.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-pad-2021.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-pad-2021.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-pad-v5-2021.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-spawnpad.zip",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/todo.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/m45-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/m45-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/online-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/online-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/todo-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/todo-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/ftd/fire.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/discord-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/m45-128.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/m45-qr.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/patreon-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/patreon-qr.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/tips/bookmark.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/tips/dl-fact.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/tips/onetwothree.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/add.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/del.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/down.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/up.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/world/m45-pad-v5.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 58,
+                    "code": 800,
+                    "comment": 0,
+                    "filename": "info.lua"
+                },
+                {
+                    "blank": 47,
+                    "code": 187,
+                    "comment": 1,
+                    "filename": "LICENSE"
+                },
+                {
+                    "blank": 14,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "log.lua"
+                },
+                {
+                    "blank": 4,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "logo.lua"
+                },
+                {
+                    "blank": 139,
+                    "code": 1277,
+                    "comment": 0,
+                    "filename": "notes/control.lua"
+                },
+                {
+                    "blank": 13,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "notes/darkness-notes.txt"
+                },
+                {
+                    "blank": 81,
+                    "code": 512,
+                    "comment": 0,
+                    "filename": "notes/darkness.lua"
+                },
+                {
+                    "blank": 54,
+                    "code": 526,
+                    "comment": 0,
+                    "filename": "online.lua"
+                },
+                {
+                    "blank": 4,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "perms.lua"
+                },
+                {
+                    "filename": "preview.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 43,
+                    "code": 444,
+                    "comment": 0,
+                    "filename": "todo.lua"
+                },
+                {
+                    "blank": 32,
+                    "code": 272,
+                    "comment": 0,
+                    "filename": "utility.lua"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2022-01-23 22:14:02",
+            "filesum": 49,
+            "codesum": 5732,
+            "commentsum": 2,
+            "blanksum": 659,
+            "statistics": {
+                ".md": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".lua": {
+                    "code": 5498,
+                    "comment": 1,
+                    "blank": 599
+                },
+                "": {
+                    "code": 187,
+                    "comment": 1,
+                    "blank": 47
+                },
+                ".txt": {
+                    "code": 45,
+                    "comment": 0,
+                    "blank": 13
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 11,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "antigrief.lua"
+                },
+                {
+                    "blank": 37,
+                    "code": 505,
+                    "comment": 0,
+                    "filename": "banish.lua"
+                },
+                {
+                    "blank": 55,
+                    "code": 373,
+                    "comment": 0,
+                    "filename": "commands.lua"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "control.lua"
+                },
+                {
+                    "blank": 54,
+                    "code": 431,
+                    "comment": 1,
+                    "filename": "event.lua"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "ftd.lua"
+                },
+                {
+                    "blank": 13,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "globals.lua"
+                },
+                {
+                    "filename": "img-source/character.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/logo-button.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-2021-logo.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-pad-2021.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-pad-2021.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-pad-v5-2021.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/m45-spawnpad.zip",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img-source/todo.psd",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/m45-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/m45-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/online-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/online-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/todo-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/buttons/todo-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/ftd/fire.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/discord-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/m45-128.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/m45-qr.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/patreon-64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/patreon-qr.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/tips/bookmark.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/tips/dl-fact.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/info-win/tips/onetwothree.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/add.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/del.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/down.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/todo/up.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "img/world/m45-pad-v5.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 58,
+                    "code": 800,
+                    "comment": 0,
+                    "filename": "info.lua"
+                },
+                {
+                    "blank": 47,
+                    "code": 187,
+                    "comment": 1,
+                    "filename": "LICENSE"
+                },
+                {
+                    "blank": 14,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "log.lua"
+                },
+                {
+                    "blank": 4,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "logo.lua"
+                },
+                {
+                    "blank": 139,
+                    "code": 1277,
+                    "comment": 0,
+                    "filename": "notes/control.lua"
+                },
+                {
+                    "blank": 13,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "notes/darkness-notes.txt"
+                },
+                {
+                    "blank": 81,
+                    "code": 512,
+                    "comment": 0,
+                    "filename": "notes/darkness.lua"
+                },
+                {
+                    "blank": 54,
+                    "code": 526,
+                    "comment": 0,
+                    "filename": "online.lua"
+                },
+                {
+                    "blank": 4,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "perms.lua"
+                },
+                {
+                    "filename": "preview.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 43,
+                    "code": 444,
+                    "comment": 0,
+                    "filename": "todo.lua"
+                },
+                {
+                    "blank": 32,
+                    "code": 272,
+                    "comment": 0,
+                    "filename": "utility.lua"
+                }
+            ]
+        }
+    ]
+}
